@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 ¡Hola! Soy Álvaro José Gómez Barrios
 
-<!--
-**alvarojosegome/alvarojosegome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas | Universidad de la Costa (CUC)
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de sexto semestre de Ingeniería de Sistemas en la Universidad de la Costa. Me interesa el mundo de la tecnología, el desarrollo de software y la innovación. Actualmente estoy fortaleciendo mis conocimientos y habilidades en el área de sistemas.
+
+
+
+Sobre mí
+
+- 🎓 Estudiante de Ingeniería de Sistemas.
+- 🏫 Universidad de la Costa (CUC).
+- 📚 Sexto semestre.
+- 🎮 Mi hobby favorito es jugar videojuegos.
+- 💻 Interesado en aprender y desarrollar nuevas soluciones tecnológicas.
+- 🚀 En constante aprendizaje y crecimiento profesional.
+
+🎯 Mis intereses
+
+- Desarrollo de software.
+- Tecnología e innovación.
+- Aprendizaje de programación.
+- Videojuegos.
+- Proyectos tecnológicos.
+
+📫 Contacto
+
+- Correo institucional: agomez121@cuc.edu.co
+- GitHub: [@alvarojosegome](https://github.com/alvarojosegome)
+
+
+
+¡Gracias por visitar mi perfil! Siempre estoy dispuesto a aprender, compartir conocimientos y participar en nuevos proyectos.
